@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi 👋! 
 
-<!--
-**scollon42/scollon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samuel,
 
-Here are some ideas to get you started:
+I'm an experienced software developer 🤖 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm mainly working with Elixir ⚗️ both professionaly and in my free time! It's a exciting language, with lots of tools and great features to build powerful web services.
+
+If you are interested, I wrote an article : 
+
+[<h3>Elixir: How to distribute Mnesia between multiple nodes</h3><img src="https://user-images.githubusercontent.com/16072194/123508664-05176580-d671-11eb-9f21-5ff2588d3ad7.png" width="500">](https://medium.com/@wttj_tech/elixir-how-to-distribute-mnesia-between-multiple-nodes-cb7c851b1ed1)
+
+
+I'm also curious about 3D and Game Development, I spend some time playing around with Unity or trying to build some small stuff with C++.
