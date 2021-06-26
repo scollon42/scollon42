@@ -12,3 +12,11 @@ If you are interested, I wrote an article :
 
 
 I'm also curious about 3D and Game Development, I spend some time playing around with Unity or trying to build some small stuff with C++.
+
+🌴 I'm currently working @ *[Welcome To The Jungle](https://www.welcometothejungle.com/en)* in 🇫🇷, We are building great products using Elixir! 
+
+We are actively hiring for different positions in France (full remote or in Paris)! 🎉 :
+
+* *[Backend Developer (Elixir mainly and Ruby)](https://www.welcometothejungle.com/en/companies/wttj/jobs/backend-developer-ruby-elixir_paris_WTTJ_9MP4PxM)* : mid-level/senior => Elixir not required to apply :)
+* *[FullStack Developer (Elixir, Ruby, ReactJS)](https://www.welcometothejungle.com/en/companies/wttj/jobs/full-stack-developer-ruby-elixir-react-js_paris)*
+* *[And many others](https://www.welcometothejungle.com/en/companies/wttj/jobs)
